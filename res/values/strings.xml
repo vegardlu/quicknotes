@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quicknotes</string>
+    <string name="menu_insert">Add Note</string>
+    <string name="menu_edit">Edit Note</string>
+    <string name="menu_delete">Delete Note</string>
+    <string name="title">Title</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="options">Options</string>
+    <string name="about">About Quicknotes</string>
+    <string name="about_desc">Laget av: Vegard L. Hillestad</string>
+    <string name="menu_about">About Quicknotes</string>
+    <string name="version_name">Quicknotes version 0.1</string>
+</resources>
